@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+原腾讯推荐系统工程师，专注于推荐系统，机器学习方向。
 
 ### Contact me
 
